@@ -12,7 +12,7 @@ url: "https://mark-support.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /beyond-human-nature
+baseurl: /Beyond-Human-Nature
 
 # Google tracking id to track your visitors
 
@@ -33,7 +33,7 @@ author: "StoryFirst Media"
 title: "Beyond Human Nature"
 description: "The story of the notorious 1992 Tom Monfils murder investigation and the townsfolk defined by it."
 keywords: "neelsen, Monfils, beyond human nature, film, wisconsin, green bay, vat, paper mill, murder"
-favicon: "/img/logo-bhn.ico"
+favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
