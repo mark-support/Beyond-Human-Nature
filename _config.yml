@@ -55,7 +55,6 @@ type-speed: 20
 start-delay: 200
 delete-delay: 8000
 lines: # You can add HTML Tags in the Text
-  - text: "Who killed Tom Monfils?"
   - text: "You find out a lot of things in an investigation, and not all of them you want to. – <strong>Detective Winkler</strong>"
   - text: "It’s not a lie just because you can’t remember something. – <strong>Mike Piaskowski</strong>"
   - text: "It’s like any story. It grows bigger and taller as it’s told. – <strong>Cal Monfils</strong>"
