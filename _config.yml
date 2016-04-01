@@ -81,7 +81,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -120,29 +120,41 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 1969, night"
-    description: "We heard a crime [go](http://smile.amazon.com/The-Monfils-Conspiracy-Conviction-Innocent/dp/0595484735?sa-no-redirect=1)."
+  - image: "/img/timeline/2014-May-14.png"
+    date: "May 14, 2014"
+    description: "Filming begins! Interviews with Mike Piaskowski, Detective Winkler, and others are filmed over a one-week period."
 
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Filming begins"
+  - image: "/img/timeline/2014-july.png"
+    date: "July 2014"
+    description: "More filming. Former District Attorney John Zakowski and brother of Tom, Cal Monfils, among others are interviewed."
 
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Launch of Kickstarter campaign"
+  - image: "/img/timeline/2014-November.png"
+    date: "November 2014"
+    description: "Unit exterior Green Bay footage is filmed to take advantage of the late-fall weather when Tom went missing."
 
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "That's a Wrap!"
+  - image: "/img/timeline/2015-june.png"
+    date: "June 2015"
+    description: "Writer’s retreat to Hurley, Wisconsin. Director Michael Neelsen and writer Joe Pudas review the story in advance of the next round of interviews."
 
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Wiscosin premiere."
+  - image: "/img/timeline/2015-june-21.png"
+    date: "June 21, 2015"
+    description: "The third round of interviews is filmed, including Brian Kellner’s children, Amanda and Earl."
+
+  - image: "/img/timeline/2015-july.png"
+    date: "July 2015"
+    description: "The *Beyond Human Nature* team films three days of evidentiary hearings in Green Bay. The motion was for a new trial for Keith Kutska. The motion was denied."
+
+  - image: "/img/timeline/2015-october.png"
+    date: "October 2015"
+    description: "*Beyond Human Nature* director of photography Michael Nie wins the Emerging Cinematographer Award from the International Cinematographer’s Guild. A screening of his work is held at the Director’s Guild in Hollywood."
+
+  - image: "/img/timeline/2016-march.png"
+    date: "March 2016"
+    description: "The *Beyond Human Nature* teaser trailer and website go live!"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/logo-bhn-black.png"
 
 ###########
 # Contact #
@@ -191,7 +203,7 @@ pages_list:
   About: 'about'
   Press: 'press'
 #  Production Diary: 'latest-post'
-#  Dates: 'timeline'
+  Milestones: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
