@@ -120,7 +120,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/2014-May-14.png"
+  - image: "/img/timeline/2014-may.png"
     date: "May 14, 2014"
     description: "Filming begins! Interviews with Mike Piaskowski, Detective Winkler, and others are filmed over a one-week period."
 
