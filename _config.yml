@@ -12,7 +12,7 @@ url: "https://mark-support.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /Beyond-Human-Nature
+baseurl:
 
 # Google tracking id to track your visitors
 
@@ -23,6 +23,7 @@ google-tracking-id: "UA-75806621-1"
 # then you should disable it
 
 force-https: true
+
 
 #############
 # HTML Head #
